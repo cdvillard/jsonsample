@@ -1,0 +1,14 @@
+body {
+  width: 480px;
+  margin: 0 auto;
+}
+
+#appholder {
+  font-family: sans-serif;
+  line-height: 1.25em;
+}
+
+dd {
+  font-size: .75em;
+  font-style: italic;
+}
