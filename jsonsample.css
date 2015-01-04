@@ -1,3 +1,68 @@
+body {  
+  max-width: 900px;
+  margin: 30px auto;
+}
+.menu {
+  position: fixed;
+  float: left;
+  width: 200px;
+}
+.nameplate {
+  text-align: center;
+  line-height: 200%;
+}
+.nameplate img {
+  vertical-align: bottom;
+  border-radius: 50%;
+  max-height: 80px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nameplate h1 {
+  display: inline;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  font-size: 80px;
+}
+.nameplate p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.25em;
+  line-height: 1.25em;
+}
+.menu section h1 {
+  font-family: 'Open Sans', serif;
+}
+.menu section p {
+  font-family: 'Roboto Slab', serif;
+  font-size: .8em;
+}
+.menu section a{
+  text-decoration: none;
+  line-height: 20px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  color: #777;
+}
+.menu section a:visited {
+  color: #777;
+}
+.menu section a:active {
+  color: #999;
+}
+.menu section a:hover {
+  text-decoration: none;
+  color: #999;
+}
+
+.content {
+  margin-left: 225px;
+}
+.content ol {
+  font-family: 'Roboto Slab', serif;
+}
+
 #appholder {
   font-family: sans-serif;
   line-height: 1.25em;
