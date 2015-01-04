@@ -27,6 +27,7 @@ body {
   font-size: 80px;
 }
 .nameplate p {
+	margin: 0;
   font-family: 'Roboto Slab', serif;
   font-size: 1.25em;
   line-height: 1.25em;
